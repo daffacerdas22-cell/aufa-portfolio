@@ -11,7 +11,8 @@ Portfolio for **Aufa Akmal Bunaya**, a programmer and security engineer studying
 
 ## Hosting
 - GitHub: public repo `aufa-portfolio` on the `daffacerdas22-cell` account, branch `main`.
-- Vercel: project linked to that repo; every push to `main` deploys. No `vercel.json` needed.
+- Vercel: project `aufa-portfolio` in the "Independent Daffa" team, linked to that repo; every push to `main` deploys. No `vercel.json` needed.
+- Live (public): https://aufa-portfolio-rust.vercel.app — the team aliases (`*-independent-daffa.vercel.app`) sit behind Vercel's deployment protection.
 
 ## Design
 - After railway.com: `#13111C` night ground, IBM Plex Serif headings, Inter body, JetBrains Mono details, navy `#1B2132` rounded grounds on alternate sections, a dashed track rail in the left margin, small mono eyebrow labels above headings.
